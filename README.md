@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nilesh Kawar</h1>
-<br>
 <h3 align="center">A young-dumb 🤓 Web developer from India 🇮🇳</h3>
 
 - 🌱 I’m currently learning **📱 Android**
